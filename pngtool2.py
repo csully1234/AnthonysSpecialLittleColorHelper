@@ -194,12 +194,7 @@ def main() -> None:
     st.title("Anthony’s Special Little Color Helper")
     st.write(
         """
-        Upload one or more PNG logos with transparency, choose a new color, and
-        recolor the non-transparent parts of each image. You can also opt to
-        preserve shading or treat near‑white backgrounds as transparent when
-        your images lack an alpha channel. The recolored images maintain the
-        original resolution and metadata (such as DPI), and remain fully
-        transparent where appropriate.
+        🤪
         """
     )
 
